@@ -5,6 +5,15 @@ A fully functional chess game built with precision, clean architecture, and a de
 [![GitHub stars](https://img.shields.io/github/stars/Bhavu7/Chess---Game.svg)](https://github.com/Bhavu7/Chess---Game/stargazers)
 [![License](https://img.shields.io/github/license/Bhavu7/Chess---Game.svg)](https://github.com/Bhavu7/Chess---Game/blob/main/LICENSE)
 
+
+![Chess Game Screenshot - Bhavu7](Screenshot.png "Chess Game UI – JavaScript-based Online Chess Game")
+
+---
+
+## 🔍 Keywords
+
+`chess game`, `JavaScript chess`, `open source chessboard`, `html chess game`, `vanilla js chess`, `2D chess UI`, `web-based chess game`, `build your own chess game`, `interactive chessboard js`
+
 ---
 
 ## 🚀 Features
